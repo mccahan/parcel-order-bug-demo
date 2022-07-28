@@ -1,2 +1,2 @@
 var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{},r={},l={},n=e.parcelRequired475;null==n&&((n=function(e){if(e in r)return r[e].exports;if(e in l){var n=l[e];delete l[e];var o={id:e,exports:{}};return r[e]=o,n.call(o.exports,o,o.exports),o.exports}var i=new Error("Cannot find module '"+e+"'");throw i.code="MODULE_NOT_FOUND",i}).register=function(e,r){l[e]=r},e.parcelRequired475=n);var o=n("5CNsl"),i=n("2T6Ah"),t=n("7rUwj");o.gsap.registerPlugin(i.ScrollTrigger,t.ScrollToPlugin);
-//# sourceMappingURL=indexa.8172477e.js.map
+//# sourceMappingURL=indexb.1d7bdfbc.js.map
